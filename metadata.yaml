@@ -43,6 +43,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Voltaire
     - http://en.wikipedia.org/wiki/Voltaire
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35630#A-Philosophical-Dictionary-Volume-10
 gutenberg_issued: '2011-03-29'
 gutenberg_type: Text
 identifiers:
